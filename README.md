@@ -7,9 +7,11 @@
 <p align="center">
 <a href="https://github.com/Biiuh"><img title="Criador" src="https://img.shields.io/badge/Criador-BiiuhYT-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
+
+
 #### Tutorial YouTube
 
-Link: https://www.youtube.com/watch?v=8rFL3mbsjJM&t=27s
+* Link: `https://www.youtube.com/watch?v=8rFL3mbsjJM&t=27s`
 
 #### Tutorial PT/BR
 1. Obrigatório criar a conta em: `https://dashboard.ngrok.com/signup`
